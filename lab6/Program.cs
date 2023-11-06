@@ -33,14 +33,14 @@
         }
         return check.Count == 0;
     }
-    static void Main(string[] args)
-    {
-        string input = "({x-y-z}*[x+2y]-(z+4x));";
-        int processedChars;
-        
-        bool isCorrect = IsCorrect(input);
-
-        Console.WriteLine($"Is the string correct: {isCorrect}");
-        
-    }
+    // static void Main(string[] args)
+    // {
+    //     string input = "({x-y-z}*[x+2y]-(z+4x));";
+    //     int processedChars;
+    //     
+    //     bool isCorrect = IsCorrect(input);
+    //
+    //     Console.WriteLine($"Is the string correct: {isCorrect}");
+    //     
+    // }
 }
