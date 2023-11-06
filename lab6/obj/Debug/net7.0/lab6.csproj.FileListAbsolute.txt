@@ -1,0 +1,15 @@
+/Users/igorgordienko/C# lab/lab6/lab6/bin/Debug/net7.0/lab6
+/Users/igorgordienko/C# lab/lab6/lab6/bin/Debug/net7.0/lab6.deps.json
+/Users/igorgordienko/C# lab/lab6/lab6/bin/Debug/net7.0/lab6.runtimeconfig.json
+/Users/igorgordienko/C# lab/lab6/lab6/bin/Debug/net7.0/lab6.dll
+/Users/igorgordienko/C# lab/lab6/lab6/bin/Debug/net7.0/lab6.pdb
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.csproj.AssemblyReference.cache
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.AssemblyInfoInputs.cache
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.AssemblyInfo.cs
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.csproj.CoreCompileInputs.cache
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.dll
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/refint/lab6.dll
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.pdb
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/lab6.genruntimeconfig.cache
+/Users/igorgordienko/C# lab/lab6/lab6/obj/Debug/net7.0/ref/lab6.dll
